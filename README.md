@@ -30,7 +30,9 @@ This is a simple dice game, called pig (dice game) it was created using html,css
  ## Visuals
  Here is a visual representation of the game in the form of screen shots as well as a direct link to the website
  * [Live Demo]() <br/><br/>
- ![](https://github.com/ThubehN/My-First-Website/blob/develop/images/Screenshot%20(5).png)<br/><br/> ![](https://github.com/ThubehN/My-First-Website/blob/develop/images/Screenshot%20(6).png)<br/><br/>![](https://github.com/ThubehN/My-First-Website/blob/develop/images/Screenshot%20(8).png)
+ ![](https://github.com/ThubehN/DOM-pig-game/blob/main/Images/Screenshot%20(32).png)<br/><br/>
+  ![](https://github.com/ThubehN/DOM-pig-game/blob/main/Images/Screenshot%20(31).png)<br/><br/>
+  ![](https://github.com/ThubehN/DOM-pig-game/blob/main/Images/Screenshot%20(32).png)
  
  ## Author
  The authors responsible for this game are:
@@ -41,7 +43,7 @@ This is a simple dice game, called pig (dice game) it was created using html,css
  
  ## Contributing
  Contributions, issues and feature requests are welcome!<br/>
- Please feel free to check the [issues page]().
+ Please feel free to check the [issues page](https://github.com/ThubehN/DOM-pig-game/issues).
  
  ## Show your support
  Give this project a star if you feel it is up to standard
