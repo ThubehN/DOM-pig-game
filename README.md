@@ -1,8 +1,7 @@
 # DOM-pig-game
-This is a restaurant website (The Grand Space), 
-it is a very informative and adaptable website which allows the user to menoeuvre without any hassles.
+This is a simple dice game, called pig (dice game) it was created using html,css, javaScript and manipulating the DOM for optimum functionality.
  ## Table of content
- * [General Info](#general-info)
+ * [Game Rules](#game-rules)
  * [Technologies](#technologies)
  * [Set up](#set-up)
  * [Visuals](#visuals)
@@ -10,8 +9,11 @@ it is a very informative and adaptable website which allows the user to menoeuvr
  * [Contributing](#contributing)
  * [Show your support](#show-your-support)
  * [License](#license)
- ## General Info
- This is my very first take on software development, a basic restaurant website which showcases my coding journey thus far. The website  was developed using three coding languages, the website has the various elements which  are usually used when making a functional website, it has about 5pages of text all linked into a single page allowing the user to move back an fourth without really refreshing or having to go back using the normal google back button.
+ ## Game Rules
+ * The game is played by 2 players, each taking turns.
+ * In each turn, the player rolls a dice and gets a result, that result is added to the players score.
+ * if the current player rolls a 1,the player loses the round score, it is then automatically the next players turn.
+ * The first player to reach a score of 20 wins the game
  
  ## Technologies
  The technologies or rather the languages used to develop this game are as follows:
@@ -46,4 +48,4 @@ it is a very informative and adaptable website which allows the user to menoeuvr
  
  ## License
  &copy; 2021 Thubelihle Nxumalo & Jabulile Khoza<br/>
- This project is [MIT](https://github.com/ThubehN/My-First-Websit
+ This project is [MIT](https://github.com/ThubehN/My-First-Websit)
