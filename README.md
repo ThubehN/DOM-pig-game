@@ -29,7 +29,7 @@ This is a simple dice game, called pig (dice game) it was created using html,css
  
  ## Visuals
  Here is a visual representation of the game in the form of screen shots as well as a direct link to the website
- * [Live Demo](http://127.0.0.1:5500/index.html) <br/><br/>
+ * [Live Demo](https://rawcdn.githack.com/ThubehN/DOM-pig-game/19b0e5d295de67c9ad0829a1e9b568e51aced65d/index.html) <br/><br/>
  ![](https://github.com/ThubehN/DOM-pig-game/blob/main/Images/Screenshot%20(32).png)<br/><br/>
   ![](https://github.com/ThubehN/DOM-pig-game/blob/main/Images/Screenshot%20(31).png)<br/><br/>
   ![](https://github.com/ThubehN/DOM-pig-game/blob/main/Images/Screenshot%20(32).png)
